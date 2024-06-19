@@ -1,0 +1,16 @@
+{
+  "name": "tysoab/workopia-php",
+  "description": "Job listing application",
+  "authors": [
+    {
+      "name": "Taiwo",
+      "email": "tysoab@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}
